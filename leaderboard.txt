@@ -1,2 +1,5 @@
+s,3
+se,3
 Smriti,2
 Smriti,2
+smriti ,2
