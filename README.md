@@ -1,4 +1,4 @@
-## Rock, Paper, Scissors Game
+# Rock, Paper, Scissors Game
 
 
 A classic Rock, Paper, Scissors game built with Pygame, featuring single-player (vs. computer) and two-player modes, a leaderboard, and enhanced visuals like gradient backgrounds, animated choices, and fade transitions. Players can compete in 5-round matches, with scores saved to a leaderboard for winners.
